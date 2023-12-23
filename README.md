@@ -28,4 +28,5 @@ Error Handling and Security:
 Proper error handling should be implemented to manage exceptions during database operations or input validation.
 Security measures like input sanitization, encryption of sensitive data (like passwords), and prevention of SQL injection attacks should be considered.
 In summary, the registration process involves collecting user data through a JSP form, passing it to a Java Servlet for backend processing, and utilizing Hibernate for database interaction, thus enabling seamless data persistence into the database.
-For better understanding, you can refer to my PDF as I have mentioned all the steps one by one.
+
+**For a better understanding, you can refer to my PDF, as I have mentioned all the steps individually.**
